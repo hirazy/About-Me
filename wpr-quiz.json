@@ -1,5 +1,6 @@
+
 {
-    "questions": [
+    "questions":[
         {
             "_id": "5f6bba1a44470627f8773da6",
             "answers": [
@@ -67,7 +68,7 @@
                 "<body bg=\"yellow\">"
             ],
             "text": "What is the correct HTML for adding a background color?",
-            "correctAnswer" 0,
+            "correctAnswer": 0,
             "__v": 0
         },
         {
